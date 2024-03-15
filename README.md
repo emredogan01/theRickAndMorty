@@ -4,10 +4,6 @@ This React Native application allows users to explore characters, locations, and
 
 # Features
 
-This React Native application allows users to explore characters, locations, and episodes from the beloved TV show Rick and Morty. It utilizes the Rick and Morty API to fetch data and display it in an intuitive interface.
-
-# Features
-
 Character Exploration: Browse through a list of characters from the show.
 Location Discovery: Discover various locations featured in Rick and Morty.
 Episode Details: Get information about different episodes, including their air date, episode code, and more.
